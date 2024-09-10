@@ -9,12 +9,15 @@ body{
 }
 #iconos1{
     font-size: 120px;
-    color: red;
+    color:  black;
     margin-left: 10px;
 }
 #iconos2{
     font-size: 120px;
-    color: red;
+    color: black;
     transform: scaleY(-1);
     margin-right: 10px;
+}
+.red{
+    color: red;
 }
